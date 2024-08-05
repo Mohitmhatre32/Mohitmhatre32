@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Mhatre</h1>
 <h3 align="center">Avid budding Web Developer focused on developing cutting-edge web projects and enhancing my skills.</h3>
+<h2>I have been coding for the past three years, beginning with HTML and gradually progressing through CSS, JavaScript, and PHP. Over this time, I have gained experience in creating and designing websites, developing interactive web applications, and handling server-side scripting. I have also explored various frameworks and libraries to enhance my development skills and keep up with the latest industry trends. This journey has been both challenging and rewarding, as it has allowed me to build a solid foundation in web development and continuously improve my technical abilities.</h2>
 
 - 🔭 I’m currently working on building AI Software Engineer **Elliot**
 
