@@ -17,6 +17,28 @@ I enjoy exploring new technologies, solving problems through code, and continuou
 * 🤝  I'm open to collaborating on GitHub and LinkedIn 
 * ⚡  I'm also a budding Software Researcher & Developer
 
+
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/MohitMhatre32">
+    <img src="https://github-readme-stats.vercel.app/api?username=MohitMhatre32&show_icons=true&theme=radical" alt="Mohit Mhatre's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MohitMhatre32">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitMhatre32&theme=radical" alt="Mohit Mhatre's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MohitMhatre32">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitMhatre32&layout=compact&theme=radical" alt="Mohit Mhatre's Top Languages" />
+  </a>
+</p>
+
+
 ### Skills
 
 
