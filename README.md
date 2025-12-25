@@ -71,20 +71,6 @@ const Mohit = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohitMhatre32&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohitMhatre32&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitMhatre32&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
