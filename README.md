@@ -29,29 +29,30 @@ const Mohit = {
 - 📫 **Reach me:** [mohitmhatre107@gmail.com](mailto:mohitmhatre107@gmail.com)
 
 ---
-
 ## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,dart,typescript," />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,dart" />
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,svelte" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=materialui,svelte" />
 </p>
+
+  </td>
+  <td valign="top" width="33%">
 
 ### ⚙️ Backend & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🤖 AI/ML & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" width="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -59,16 +60,29 @@ const Mohit = {
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
 </p>
 
-### 🛠️ Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,figma,jira" />
-</p>
-
 ### 🔗 Blockchain
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ethereum,solidity" />
 </p>
 
+  </td>
+  <td valign="top" width="33%">
+
+### 🤖 AI/ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" width="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
+</p>
+
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,figma,jira" />
+</p>
+
+  </td>
+  </tr>
+</table>
 ---
 
 ## 📈 Contribution Graph
