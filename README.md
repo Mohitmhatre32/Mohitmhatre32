@@ -27,6 +27,7 @@ const Mohit = {
 - 🤝 **Open to:** Collaborations on GitHub and LinkedIn
 - 💬 **Ask me about:** Web Development, Python, AI/ML, DSA
 - 📫 **Reach me:** [mohitmhatre107@gmail.com](mailto:mohitmhatre107@gmail.com)
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1n1Yl4URR_ojcYMzHAWj2dfBkVRP8Wz-Z/view?usp=sharing)
 
 ---
 ## 🛠️ Tech Stack
