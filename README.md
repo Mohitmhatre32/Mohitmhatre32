@@ -84,7 +84,7 @@ const Mohit = {
   </td>
   </tr>
 </table>
----
+
 
 ## 📈 Contribution Graph
 
@@ -93,9 +93,13 @@ const Mohit = {
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohitMhatre32&theme=react-dark&hide_border=true)
 
 </div>
+<h2 align="center">🔥 GitHub Streak Stats</h2>
 
----
-## 🤝 Connect With Me
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MohitMhatre32&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+
 
 <div align="center">
 
