@@ -85,6 +85,17 @@ const Mohit = {
   </tr>
 </table>
 
+### 📊 Stats
+
+<div>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohitMhatre32&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohitMhatre32&theme=github_dark" />
+</p>
+
+</div>
+
 
 ## 📈 Contribution Graph
 
