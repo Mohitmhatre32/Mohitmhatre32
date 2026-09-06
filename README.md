@@ -1,12 +1,27 @@
-<div align="center">
-  
-# 👋 Hi there! I'm Mohit Mhatre
-
-### 💻 Turning Ideas into Code | Passionate about Web Dev, Backend & AI/ML
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="58%" valign="middle">
+      <br/>
+      <h1>Hey, I'm Mohit Mhatre 👋</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7B68EE&center=false&vCenter=true&width=520&lines=Building+Agentic+AI+%26+Generative+Pipelines;Crafting+Scalable+Backend+Systems;NASA+Space+Apps+%26+TECHNOVA+'26+AI+Winner;Technical+Lead+%40+DJS+ISACA;Zero-Trust+Cybersecurity+%26+Autonomous+SOAR" alt="Typing SVG" />
+      </a>
+      <br/><br/>
+      <p>
+        🚀 <strong>Technical Lead @ DJS ISACA</strong> &bull; Contributor @ <strong>GSSoC '26</strong><br/>
+        🎓 <strong>B.Tech CSE</strong> (IoT, Cyber Security & Blockchain, Honors in DS) @ <strong>DJSCE</strong><br/>
+        💡 Building <strong>Agentic Workflows</strong>, high-throughput microservices, and <strong>Zero-Trust security</strong> systems.
+      </p>
+      <p>
+        <a href="https://linkedin.com/in/mohitmhatre" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="38" width="38" alt="LinkedIn" title="Connect on LinkedIn" /></a>&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1n1Yl4URR_ojcYMzHAWj2dfBkVRP8Wz-Z/view?usp=sharing" target="_blank"><img src="https://cdn.simpleicons.org/googledrive/7B68EE" height="38" width="38" alt="Resume" title="View Resume PDF" /></a>&nbsp;&nbsp;<a href="mailto:mohitmhatre107@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" width="38" alt="Email" title="Send an Email" /></a>
+      </p>
+      <br/>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" alt="Developer Animation" style="max-width: 380px; border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,9 +53,6 @@ class MohitMhatre:
     
     reach_me    = "mohitmhatre107@gmail.com"
 ```
-
-- 📫 **Reach me:** [mohitmhatre107@gmail.com](mailto:mohitmhatre107@gmail.com)
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1n1Yl4URR_ojcYMzHAWj2dfBkVRP8Wz-Z/view?usp=sharing)
   
 ---
 ## 🛠️ Tech Stack
