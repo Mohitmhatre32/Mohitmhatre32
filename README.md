@@ -126,17 +126,10 @@ class MohitMhatre:
 
 ### 📊 GitHub Stats
 <div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohitMhatre32&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohitMhatre32&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohitMhatre32&show_icons=true&theme=github_dark&hide_border=true" alt="Mohit Mhatre GitHub Stats Overview" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitMhatre32&layout=compact&theme=github_dark&hide_border=true" alt="Mohit Mhatre Top Languages" />
 </div>
 <br/>
-<div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitMhatre32&theme=github_dark&utcOffset=5.5" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohitMhatre32&theme=github_dark" />
-</div>
-<br/>
-<div align="center">
-</div>
 
 
 ## 📈 Contribution Graph
